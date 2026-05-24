@@ -77,13 +77,13 @@
 
 	@media (hover: hover) and (pointer: fine) {
 		.slider-nav__item:not(.disabled):hover {
-			color: blue;
+			color: rgb(196, 196, 196);
 		}
 	}
 
 	@media (hover: none) {
 		.slider-nav__item:not(.disabled):active {
-			color: blue;
+			color: rgb(196, 196, 196);
 		}
 	}
 	
